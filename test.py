@@ -10,3 +10,6 @@ tables()
 print("Hello")
 print("This is AWS Jenkins class")
 print("byee")
+
+for i in range(7):
+    print("This is Sharanya")
